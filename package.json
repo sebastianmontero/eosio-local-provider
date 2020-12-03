@@ -1,6 +1,6 @@
 {
   "name": "@smontero/eosio-local-provider",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Local eosio provider for testing",
   "main": "dist/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sebastianmontero/eosio-signing-tools"
+    "url": "git+https://github.com/sebastianmontero/eosio-local-provider"
   },
   "author": "Sebastian Montero",
   "license": "ISC",
