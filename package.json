@@ -1,6 +1,6 @@
 {
   "name": "@smontero/eosio-local-provider",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Local eosio provider for testing",
   "main": "dist/index.js",
   "scripts": {
